@@ -1,0 +1,15 @@
+#sec01{
+    background-image: url(../img/pexels-olesia-libra-417944690-15378631.jpg);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sec01 h3 {
+color: #FFF;
+font-size: 30px;text-align: center;
+padding-top: 100px;
+}
+
+body{
+    background-color: beige;
+}
